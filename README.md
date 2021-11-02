@@ -12,6 +12,7 @@
 
 
 #過去の問題
+
 ①pod install ⇨ build setting の Always Embed ~~ を　$(inherited)にする
 
-②
+②git push時にthe local out dated ⇨ プロジェクトフォルダでgit pull(リモートの更新内容をローカルに入れる)　⇨ その後
